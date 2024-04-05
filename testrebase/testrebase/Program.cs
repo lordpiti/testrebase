@@ -1,5 +1,3 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello, World2!");
-Console.WriteLine("Hello, WorldMAIN1!");
-Console.WriteLine("MAIN SUPERUPDATED");
+ITS ALL DELETED IN THE TEST BRANCH
+
