@@ -4,3 +4,6 @@ Console.WriteLine("Hello, World2!");
 Console.WriteLine("Hello, WorldMAIN1!");
 Console.WriteLine("MAIN SUPERUPDATED");
 THIS SHOULD BE IGNORED
+escuash1
+escuash2
+escuash3
